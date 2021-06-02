@@ -13,6 +13,7 @@
 		5E1A9C5426678A2000B9E583 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E1A9C5326678A2000B9E583 /* Preview Assets.xcassets */; };
 		5E1A9C5626678A2000B9E583 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1A9C5526678A2000B9E583 /* Persistence.swift */; };
 		5E1A9C5926678A2000B9E583 /* LightsApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5E1A9C5726678A2000B9E583 /* LightsApp.xcdatamodeld */; };
+		5E1A9C622667903D00B9E583 /* ColorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1A9C612667903D00B9E583 /* ColorsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5E1A9C5526678A2000B9E583 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		5E1A9C5826678A2000B9E583 /* LightsApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LightsApp.xcdatamodel; sourceTree = "<group>"; };
 		5E1A9C5A26678A2000B9E583 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E1A9C612667903D00B9E583 /* ColorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				5E1A9C4C26678A1F00B9E583 /* LightsAppApp.swift */,
 				5E1A9C4E26678A1F00B9E583 /* ContentView.swift */,
+				5E1A9C612667903D00B9E583 /* ColorsView.swift */,
 				5E1A9C5026678A2000B9E583 /* Assets.xcassets */,
 				5E1A9C5526678A2000B9E583 /* Persistence.swift */,
 				5E1A9C5A26678A2000B9E583 /* Info.plist */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E1A9C5626678A2000B9E583 /* Persistence.swift in Sources */,
+				5E1A9C622667903D00B9E583 /* ColorsView.swift in Sources */,
 				5E1A9C4F26678A1F00B9E583 /* ContentView.swift in Sources */,
 				5E1A9C5926678A2000B9E583 /* LightsApp.xcdatamodeld in Sources */,
 				5E1A9C4D26678A1F00B9E583 /* LightsAppApp.swift in Sources */,
